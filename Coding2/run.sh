@@ -1,0 +1,1 @@
+python train.py --dataset CLINC_OOD --proportion 100 --mode both --setting gda --experiment_No vallian --ind_pre_epoches 20 --supcont_pre_epoches 20 --norm_coef 0.1 --sup_cont --use_bert
